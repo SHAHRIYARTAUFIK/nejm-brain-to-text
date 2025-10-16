@@ -1,6 +1,6 @@
 # An Accurate and Rapidly Calibrating Speech Neuroprosthesis
 *The New England Journal of Medicine* (2024)
- 
+  
 Nicholas S. Card, Maitreyee Wairagkar, Carrina Iacobacci,
 Xianda Hou, Tyler Singer-Clark, Francis R. Willett,
 Erin M. Kunz, Chaofei Fan, Maryam Vahdati Nia,
