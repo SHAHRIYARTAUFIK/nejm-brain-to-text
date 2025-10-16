@@ -8,7 +8,7 @@ Darrel R. Deo, Aparna Srinivasan, Eun Young Choi,
 Matthew F. Glasser, Leigh R. Hochberg,
 Jaimie M. Henderson, Kiarash Shahlaie,
 Sergey D. Stavisky*, and David M. Brandman*.
-
+ 
 <span style="font-size:0.8em;">\* denotes co-senior authors</span>
 
 ![Speech neuroprosthesis overview](b2txt_methods_overview.png)
